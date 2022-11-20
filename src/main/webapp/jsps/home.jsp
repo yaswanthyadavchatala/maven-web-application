@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Devops Markonda- Home Page</title>
+<title>Devops Yaswanthyadav- Home Page</title>
 <link href="images/devopslogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Devops Markonda </h1>
-<h1 align="center"> Devops Markonda- Very Good Training center for DevOps with AWS Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Devops Yaswanthyadav </h1>
+<h1 align="center"> Devops yaswanthyadav- Very Good Training center for DevOps with AWS Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,12 +34,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/devopslogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Devops Markonda Reddy, 
+		Devops Yaswanth Yadav, 
 		Tirupati,
-		+91-9790604084
-		devops.markonda@gmail.com
+		+91-8686337526
+		yaswanthdevops12@gmail.com
 		<br>
-		<a href="mailto:devops.markonda@gmail.com">Mail to devops.markonda@gmail.com</a>
+		<a href="mailto:yaswanthdevops12@gmail.com">Mail to yaswanthdevops12@gmail.com</a>
 	</span>
 </div>
 <hr>
@@ -47,7 +47,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Devops Markonda Reddy - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://devopsmarkonda.com/">Devops Markonda Reddy</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://devopsyaswanthyadav.com/">Devops Yaswanth Yadav</a> </small></p>
 
 </body>
 </html>
