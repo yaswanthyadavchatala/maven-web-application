@@ -22,7 +22,7 @@ options{
    stage('CheckoutCode')
    {
      steps{
-	 git branch: 'development', credentialsId: '8e348aa2-9531-4dbe-863d-1adb64897470', url: 'https://github.com/markondareddy/maven-web-application.git'
+	 git branch: 'development', credentialsId: '8e348aa2-9531-4dbe-863d-1adb64897470', url: 'https://github.com/yaswanthyadavchatala/maven-web-application.git'
 	 }
    }
    
@@ -64,19 +64,19 @@ options{
  
  
  success{
- mail bcc: 'devops.markonda@gmail.com', body: '''BuildOver!....
+ mail bcc: 'yaswanthdevops12@gmail.com', body: '''BuildOver!....
 
  Regards,
- Devops Markonda,
- 9790604084''', cc: 'devops.markonda@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devops.markonda@gmail.com'
+ Yaswanth Yadav,
+ 8686337526''', cc: 'yaswanthdevops12@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'yaswanthdevops12@gmail.com'
  }
  
  failure{
- mail bcc: 'devops.markonda@gmail.com', body: '''BuildOver!....
+ mail bcc: 'yaswanthdevops12@gmail.com', body: '''BuildOver!....
 
  Regards,
- Devops Markonda,
- 9790604084''', cc: 'devops.markonda@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'devops.markonda@gmail.com'
+ Yaswanth Yadav,
+ 8686337526''', cc: 'yaswanthdevops12@gmail.com', from: '', replyTo: '', subject: 'BuildOver!!', to: 'yaswanthdevops12@gmail.com'
  }
  
  }
