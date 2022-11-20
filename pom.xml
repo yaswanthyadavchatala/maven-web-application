@@ -12,8 +12,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Devops Markonda Reddy</name>
-		<url>http://devopsmarkonda.com/</url>
+		<name>Devops Yaswanth Yadav</name>
+		<url>http://devopsyaswanthyadav.com/</url>
 	</organization>
 
 	<properties>
@@ -95,13 +95,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Devops Markonda Reddy Releases Nexus Repository</name>
+	      <name>Devops Yaswanth Yadav Releases Nexus Repository</name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Devops Markonda Reddy Snapshot Nexus Repository </name>
+	      <name>Devops Yaswanth Yadav Snapshot Nexus Repository </name>
 	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
